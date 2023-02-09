@@ -1,0 +1,64 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.make
+*.cmake
+*.rsp
+*.includecache
+*.internal
+*.a
+*.obj
+*.rsp
+Makefile
+*.marks
+*.bin
+*.cache
+*.bak
+*.log
+*.check_cache
+*.cxx
+*.c
+Makefile2
+CMakeCXXCompilerId.cpp
+*.txt
+/Game/.vs/Game/FileContentIndex
+/Game/.vs/Game/v17/ipch/AutoPCH
+/Game/.vs/Game/v17
+/Game/Game/x64/Debug
+/Game/Game/x64/Release
+/Game/x64
+/Game — копия
+/sfml/.vs/sfml/FileContentIndex
+/sfml/.vs/sfml/v17/ipch/AutoPCH
+/sfml/sfml/x64/Debug
+/sfml/x64/Debug
+/sfml/.vs/sfml/v17
