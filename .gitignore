@@ -61,4 +61,6 @@ Makefile2
 *.idb
 *.pdb
 *.lastbuildstate
-*.\x64\
+x64/
+*.bak
+.vs/

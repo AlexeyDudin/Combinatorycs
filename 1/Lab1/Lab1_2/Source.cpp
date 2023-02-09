@@ -48,25 +48,6 @@ std::vector<int> FillDirection(int sizeOfVector)
 	return result;
 }
 
-std::vector<size_t> InsertBorders(std::vector<size_t> v)
-{
-	size_t maxValue = 0;
-	for (int i = 0; i < v.size(); i++)
-	{
-		if (v[i] > maxValue)
-			maxValue = v[i];
-	}
-	maxValue++;
-	std::vector<size_t> result;
-	result.push_back(maxValue);
-	for (int i = 0; i < v.size(); i++)
-	{
-		result.push_back(v[i]);
-	}
-	result.push_back(maxValue);
-	return result;
-}
-
 bool CanMove(std::vector<size_t> v, std::vector<int> direction, int id, bool includeZero = true, int prevId = -1)
 {
 	if ((id == 0 && direction[id] == -1) || (id == v.size() - 1 && direction[id] == 1) || (includeZero && direction[id] == 0))
@@ -93,8 +74,8 @@ int main()
 	std::vector<size_t> p = v;
 	std::vector<int> direction = FillDirection(v.size());
 
-	start();
 	int id;
+	start();
 	while (true)
 	{
 		copy(v.begin(), v.end(), std::ostream_iterator<size_t>(std::cout, " "));
