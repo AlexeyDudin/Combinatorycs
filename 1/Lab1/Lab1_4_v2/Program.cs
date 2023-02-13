@@ -9,7 +9,11 @@ namespace Lab1_4_v2
             FileWorker fileWorker = new FileWorker();
             Country country = fileWorker.ReadFromFile("Input.txt");
             country.PrintAllPaths();
+            DateTime startTime = DateTime.Now;
             country.PrintPathsToCityes();
+            DateTime endTime = DateTime.Now;
+            Console.WriteLine((endTime - startTime).TotalMilliseconds + " ms.");
+            Console.ReadKey();
         }
     }
 }

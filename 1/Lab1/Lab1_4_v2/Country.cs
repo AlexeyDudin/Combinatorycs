@@ -138,7 +138,8 @@ namespace Lab1_4_v2
 
         private void PrintOnlyFirstPath(List<FindedPaths> paths)
         {
-            Console.Write(paths.First().Lenght + ":");
+            Console.Write($"Из {paths.First().Paths.First().From.Name} в {paths.First().Paths.Last().Dest.Name} минимальная длина пути = ");
+            Console.Write(paths.First().Lenght + ": ");
             if (paths.First().Paths.Count > 0)
             {
                 Console.Write(paths.First().Paths.First().From.Name);
