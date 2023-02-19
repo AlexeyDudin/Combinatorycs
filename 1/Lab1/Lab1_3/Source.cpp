@@ -48,20 +48,10 @@ bool VectorContains(std::vector<int> positions, int value)
 	return false;
 }
 
-std::vector<int> FillResultVector(int size)
-{
-	std::vector<int> result;
-	for (int i = 0; i < size; i++)
-	{
-		result.push_back(0);
-	}
-	return result;
-}
-
 int main()
 {
 	std::vector<int> v = {1, 2, 3, 4, 5, 6};
-	std::vector<int> result = FillResultVector(v.size());
+	std::vector<int> result(v.size());
 	std::vector<int> positions;
 	std::srand(std::time(nullptr));
 
