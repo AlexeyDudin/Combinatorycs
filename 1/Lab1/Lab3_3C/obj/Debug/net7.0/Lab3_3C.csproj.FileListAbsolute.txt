@@ -1,0 +1,16 @@
+C:\Labs\algorythms\1\Lab1\Lab3_3C\bin\Debug\net7.0\Lab3_3C.exe
+C:\Labs\algorythms\1\Lab1\Lab3_3C\bin\Debug\net7.0\Test.txt
+C:\Labs\algorythms\1\Lab1\Lab3_3C\bin\Debug\net7.0\Lab3_3C.deps.json
+C:\Labs\algorythms\1\Lab1\Lab3_3C\bin\Debug\net7.0\Lab3_3C.runtimeconfig.json
+C:\Labs\algorythms\1\Lab1\Lab3_3C\bin\Debug\net7.0\Lab3_3C.dll
+C:\Labs\algorythms\1\Lab1\Lab3_3C\bin\Debug\net7.0\Lab3_3C.pdb
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.csproj.AssemblyReference.cache
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.AssemblyInfoInputs.cache
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.AssemblyInfo.cs
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.csproj.CoreCompileInputs.cache
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.dll
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\refint\Lab3_3C.dll
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.pdb
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\Lab3_3C.genruntimeconfig.cache
+C:\Labs\algorythms\1\Lab1\Lab3_3C\obj\Debug\net7.0\ref\Lab3_3C.dll

@@ -1,0 +1,9 @@
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\bin\Release\Input.txt
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\bin\Release\Lab1_4_v3.exe.config
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\bin\Release\Lab1_4_v3.exe
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\bin\Release\Lab1_4_v3.pdb
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\obj\Release\Lab1_4_v3.csproj.AssemblyReference.cache
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\obj\Release\Lab1_4_v3.csproj.SuggestedBindingRedirects.cache
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\obj\Release\Lab1_4_v3.csproj.CoreCompileInputs.cache
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\obj\Release\Lab1_4_v3.exe
+C:\Labs\algorythms\1\Lab1\Lab1_4_v3\obj\Release\Lab1_4_v3.pdb
